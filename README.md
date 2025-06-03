@@ -6,9 +6,11 @@ O projeto que vai ter um menu como botões animados uma lista de imagens usando 
     <ol>
         <li><h4><a href="#C1">Menu Play</a></h4></li>
         <li><h4><a href="#C2">Botões</a></h4></li>
-        <li><h4><a href="#C3">Typper</a></h4></li>
-        <li><h4><a href="#C4">Screen Manager</a></h4></li>
-        <li><h4><a href="#C4">Menu Setting</a></h4></li>
+        <li><h4><a href="#C3">Botão Play</a></h4></li>
+        <li><h4><a href="#C4">Typper</a></h4></li>
+        <li><h4><a href="#C5">Screen Manager</a></h4></li>
+        <li><h4><a href="#C6">Menu Setting</a></h4></li>
+        <li><h4><a href="#C7">Particle System</a></h4></li>
     </ol></br>
 
 Quando o jogo começa os botões já ativam as animações dele e quando jogador passar o mouse o botão vai ativar animação.
@@ -24,3 +26,11 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 O script responsável pela animação dos botões.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ButtonScaler.png" width="495" height="90"/></td>
+
+<h1 id="C3">Botão Play</h1>
+
+<h3>Button Scaler e Button Particle</h3>
+
+O botão play vai estar com dois script o script Button Scaler cuidar animação do botão e o Button Particle que vai ativar particle system quando jogador clicar no botão play.
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ButtonParticle.png" width="495" height="160"/></td>
