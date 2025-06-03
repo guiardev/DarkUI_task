@@ -17,6 +17,10 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/Record/Movie_004.gif" width="450" height="650"/></td>
 
-<h1 id="C1">Botões</h1>
+<h1 id="C2">Botões</h1>
+
+<h3>Button Scaler</h3>
+
+O script responsável pela animação dos botões.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ButtonScaler.png" width="495" height="90"/></td>
