@@ -34,3 +34,7 @@ O script responsável pela animação dos botões.
 O botão play vai estar com dois script o script Button Scaler cuidar animação do botão e o Button Particle que vai ativar particle system quando jogador clicar no botão play.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ButtonParticle.png" width="495" height="160"/></td>
+
+<h1 id="C3">Typper</h1>
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_Typper_1.png" width="498" height="136"/></td>
