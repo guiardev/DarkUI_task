@@ -11,20 +11,12 @@ O projeto que vai ter um menu como botões animados uma lista de imagens usando 
         <li><h4><a href="#C4">Menu Setting</a></h4></li>
     </ol>
 
-O menu do jogo vai aparecer botões animados.
-
-<h3>StarScream</h3>
-
-+ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que escurece tela e botão play.
+Quando o jogo começa os botões já ativam as animações dele e quando jogador passar o mouse o botão vai ativar animação.
 
 <h1 id="C1">Menu Play</h1>
 
-<table border="0">
-    <tr>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="450" height="650"/></td>
-      <td>
-          <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BG_RectTransform_Image.png" width="470" height="400"/>
-          <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BtnPlay.png" width="470" height="160"/>
-      </td>
-    </tr>
-</table>
+<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="450" height="650"/></td>
+
+<h1 id="C1">Menu Play</h1>
+
+
