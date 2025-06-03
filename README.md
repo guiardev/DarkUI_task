@@ -37,4 +37,6 @@ O botão play vai estar com dois script o script Button Scaler cuidar animação
 
 <h1 id="C3">Typper</h1>
 
-<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_Typper_1.png" width="498" height="136"/></td>
+Quando o menu iniciar aparece um texto com um frase na tela e o script Typper que vai estar em todas as configurações da frase e o texto.
+
+ <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_Typper_1.png" width="498" height="136"/></td>
