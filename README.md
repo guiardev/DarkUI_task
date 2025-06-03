@@ -7,10 +7,11 @@ O projeto que vai ter um menu como botões animados uma lista de imagens usando 
         <li><h4><a href="#C1">Menu Play</a></h4></li>
         <li><h4><a href="#C2">Botões</a></h4></li>
         <li><h4><a href="#C3">Botão Play</a></h4></li>
-        <li><h4><a href="#C4">Typper</a></h4></li>
-        <li><h4><a href="#C5">Screen Manager</a></h4></li>
-        <li><h4><a href="#C6">Menu Setting</a></h4></li>
-        <li><h4><a href="#C7">Particle System</a></h4></li>
+        <li><h4><a href="#C4">Botão Screen Helpe</a></h4></li>
+        <li><h4><a href="#C5">Typper</a></h4></li>
+        <li><h4><a href="#C6">Screen Manager</a></h4></li>
+        <li><h4><a href="#C7">Menu Setting</a></h4></li>
+        <li><h4><a href="#C8">Particle System</a></h4></li>
     </ol></br>
 
 Quando o jogo começa os botões já ativam as animações dele e quando jogador passar o mouse o botão vai ativar animação.
@@ -35,7 +36,15 @@ O botão play vai estar com dois script o script Button Scaler cuidar animação
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ButtonParticle.png" width="495" height="160"/></td>
 
-<h1 id="C3">Typper</h1>
+<h1 id="C4">Screen Helper</h1>
+    
+<h3>Button Scaler e Screen Helper</h3>
+
+O botão que vai responsável de mudar menu para outro quando o jogador clicar nele vai sumir o menu e outro vai aparecer no lugar dele.
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ScreenHelper.png" width="495" height="160"/></td>
+
+<h1 id="C5">Typper</h1>
 
 Quando o menu iniciar aparece um texto com um frase na tela e o script Typper que vai estar em todas as configurações da frase e o texto.
 
