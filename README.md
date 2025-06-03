@@ -15,8 +15,8 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <h1 id="C1">Menu Play</h1>
 
-<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="450" height="650"/></td>
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/Record/Movie_004.gif" width="450" height="650"/></td>
 
-<h1 id="C1">Menu Play</h1>
+<h1 id="C1">Botões</h1>
 
 
