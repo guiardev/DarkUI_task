@@ -19,4 +19,4 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <h1 id="C1">Botões</h1>
 
-
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ButtonScaler.png" width="495" height="90"/></td>
