@@ -9,7 +9,7 @@ O projeto que vai ter um menu como botões animados uma lista de imagens usando 
         <li><h4><a href="#C3">Typper</a></h4></li>
         <li><h4><a href="#C4">Screen Manager</a></h4></li>
         <li><h4><a href="#C4">Menu Setting</a></h4></li>
-    </ol>
+    </ol></br>
 
 Quando o jogo começa os botões já ativam as animações dele e quando jogador passar o mouse o botão vai ativar animação.
 
