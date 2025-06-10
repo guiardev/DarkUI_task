@@ -66,6 +66,14 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <h1 id="C8">Particle System</h1>
 
- + Particle System
+ + O Particle System vai ser ativado quando o jogador clicar no botão play que está no script ButtonParticle.
 
-<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Emission.png" width="498" height="590"/></td>
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/Record/Movie_006.gif" width="450" height="650"/></td>
+
+<h3>Configurações do Particle System</h3>
+
+<tr>
+  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Emission.png" width="498" height="590"/></td>
+  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Shape.png" width="498" height="350"/></td>
+  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Renderer.png" width="498" height="350"/></td>
+</tr>
