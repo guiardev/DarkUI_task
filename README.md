@@ -63,3 +63,9 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
  + O script screen base que vai estar em todas as configurações dos botões e frase que vai aparecer no topo da tela e o nome tipo do menu.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ScreenBase.png" width="498" height="518"/></td>
+
+<h1 id="C8">Particle System</h1>
+
+ + Particle System
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Emission.png" width="498" height="590"/></td>
