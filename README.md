@@ -37,6 +37,8 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ButtonParticle.png" width="495" height="160"/></td>
 
 <h1 id="C4">Screen Helper</h1>
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/Record/Movie_005.gif" width="450" height="650"/></td>
     
 <h3>Button Scaler e Screen Helper</h3>
 
