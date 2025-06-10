@@ -72,10 +72,12 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <h3>Configurações do Particle System</h3>
 
-<tr>
-  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Emission.png" width="498" height="590"/></td>
-  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Shape.png" width="498" height="350"/></td>
-</tr>
-<tr>
-  <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Renderer.png" width="498" height="350"/></td>
-</tr>
+<table>
+    <tr>
+      <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Emission.png" width="498" height="590"/></td>
+      <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Shape.png" width="498" height="350"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_particleSystem_Renderer.png" width="498" height="350"/></td>
+    </tr>
+</table>
