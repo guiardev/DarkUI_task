@@ -24,7 +24,7 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <h3>Button Scaler</h3>
 
-O script responsável pela animação dos botões.
+ + O script responsável pela animação dos botões.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ButtonScaler.png" width="495" height="90"/></td>
 
@@ -32,7 +32,7 @@ O script responsável pela animação dos botões.
 
 <h3>Button Scaler e Button Particle</h3>
 
-O botão play vai estar com dois script o script Button Scaler cuidar animação do botão e o Button Particle que vai ativar particle system quando jogador clicar no botão play.
+ + O botão play vai estar com dois script o script Button Scaler cuidar animação do botão e o Button Particle que vai ativar particle system quando jogador clicar no botão play.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ButtonParticle.png" width="495" height="160"/></td>
 
@@ -40,12 +40,18 @@ O botão play vai estar com dois script o script Button Scaler cuidar animação
     
 <h3>Button Scaler e Screen Helper</h3>
 
-O botão que vai responsável de mudar menu para outro quando o jogador clicar nele vai sumir o menu e outro vai aparecer no lugar dele.
+ + O botão que vai responsável de mudar menu para outro quando o jogador clicar nele vai sumir o menu e outro vai aparecer no lugar dele.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_play_ButtonScaler_ScreenHelper.png" width="495" height="160"/></td>
 
 <h1 id="C5">Typper</h1>
 
-Quando o menu iniciar aparece um texto com um frase na tela e o script Typper que vai estar em todas as configurações da frase e o texto.
+ + Quando o menu iniciar aparece um texto com um frase na tela e o script Typper que vai estar em todas as configurações da frase e o texto.
 
- <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_Typper_1.png" width="498" height="136"/></td>
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_Typper_1.png" width="498" height="136"/></td>
+
+<h1 id="C6">ScreenManager</h1>
+
+ + O script screen manager vai fazer função ao mudar as opções do menu.
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ScreenManager.png" width="498" height="162"/></td>
