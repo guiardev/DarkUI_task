@@ -10,7 +10,7 @@ O projeto que vai ter um menu como botões animados uma lista de imagens usando 
         <li><h4><a href="#C4">Botão Screen Helpe</a></h4></li>
         <li><h4><a href="#C5">Typper</a></h4></li>
         <li><h4><a href="#C6">Screen Manager</a></h4></li>
-        <li><h4><a href="#C7">Menu Setting</a></h4></li>
+        <li><h4><a href="#C7">Menu Settings</a></h4></li>
         <li><h4><a href="#C8">Particle System</a></h4></li>
     </ol></br>
 
@@ -55,3 +55,11 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
  + O script screen manager vai fazer função ao mudar as opções do menu.
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ScreenManager.png" width="498" height="162"/></td>
+
+<h1 id="C6">Menu Settings</h1>
+
+<h3>ScreenBase</h3>
+
+ + O script screen base que vai estar em todas as configurações dos botões e frase que vai aparecer no topo da tela e o nome tipo do menu.
+
+<td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ScreenBase.png" width="498" height="518"/></td>
