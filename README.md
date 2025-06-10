@@ -56,7 +56,7 @@ Quando o jogo começa os botões já ativam as animações dele e quando jogador
 
 <td><img src="https://github.com/guiardev/DarkUI_task/blob/main/Assets/imgs/img_ScreenManager.png" width="498" height="162"/></td>
 
-<h1 id="C6">Menu Settings</h1>
+<h1 id="C7">Menu Settings</h1>
 
 <h3>ScreenBase</h3>
 
